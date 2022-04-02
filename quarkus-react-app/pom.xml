@@ -37,6 +37,10 @@
       <artifactId>quarkus-resteasy</artifactId>
     </dependency>
     <dependency>
+        <groupId>io.quarkus</groupId>
+        <artifactId>quarkus-vertx-web</artifactId>
+    </dependency>    
+    <dependency>
       <groupId>io.quarkus</groupId>
       <artifactId>quarkus-kubernetes</artifactId>
     </dependency> 
